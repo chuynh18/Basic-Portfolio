@@ -113,7 +113,8 @@ footer {
 
 #catpic {
     float: left;
-    padding-right: 15px;
+    margin-right: 15px;
+    border-radius: 3%;
 }
 
 a:link, a:visited {
